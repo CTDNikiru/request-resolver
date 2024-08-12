@@ -1,0 +1,19 @@
+{
+    "name": "ctdnikiru/request-resolver",
+    "description": "Symfony request resolver to DTO",
+    "type": "metapackage",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Ctdnikiru\\RequestResolver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ctdnikiru",
+            "email": "ctdnikiru@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
